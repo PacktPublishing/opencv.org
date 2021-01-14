@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 This repository contains sources for the http://opencv.org site. It uses [Jekyll](http://jekyllrb.com/) to generate actual site from the sources.
 
 Quick local check can be done using [Docker](https://www.docker.com/) container. The _docker-compose_ tool can be used to build a container and run generator in it with a single command.
